@@ -31,3 +31,4 @@ C:\Users\User\repos\Newton\Wine-Api\obj\Debug\net7.0\refint\Wine-Api.dll
 C:\Users\User\repos\Newton\Wine-Api\obj\Debug\net7.0\Wine-Api.pdb
 C:\Users\User\repos\Newton\Wine-Api\obj\Debug\net7.0\Wine-Api.genruntimeconfig.cache
 C:\Users\User\repos\Newton\Wine-Api\obj\Debug\net7.0\ref\Wine-Api.dll
+C:\Users\User\repos\Newton\Wine-Api\obj\Debug\net7.0\Wine-Api.sourcelink.json
